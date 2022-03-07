@@ -1,4 +1,4 @@
-package com.sugar.demo_2;
+package com.sugar.demo_1;
 
 import java.util.concurrent.*;
 
@@ -7,7 +7,7 @@ import java.util.concurrent.*;
  * @author sugar
  * @date 2022/3/7 21:55
  */
-public class Thread implements Callable<Boolean> {
+public class Thread5 implements Callable<Boolean> {
     // 子线程
     @Override
     public Boolean call() {
@@ -18,8 +18,8 @@ public class Thread implements Callable<Boolean> {
     }
     // 主线程
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-        Thread t1 = new Thread();
-        Thread t2 = new Thread();
+        Thread5 t1 = new Thread5();
+        Thread5 t2 = new Thread5();
         // 创建服务
         ExecutorService service = Executors.newFixedThreadPool(2);
         // 提交执行
