@@ -1,4 +1,4 @@
-package com.sugar.demo_1;
+package com.sugar.createThread;
 
 /** 
  * 模拟龟兔赛跑

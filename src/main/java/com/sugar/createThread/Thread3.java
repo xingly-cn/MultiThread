@@ -1,4 +1,4 @@
-package com.sugar.demo_1;
+package com.sugar.createThread;
 
 /**
  * 实现 Runnable 接口, 重写 run 方法, 丢入线程, 启动线程
