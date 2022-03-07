@@ -1,5 +1,11 @@
 package com.sugar.proxyStatic;
 
+/**
+ *
+ * 静态代码
+ * @author sugar
+ * @date 2022/3/7 22:32
+ */
 public class StaticProxy {
     public static void main(String[] args) {
         Weddings weddings = new Weddings(new You());
