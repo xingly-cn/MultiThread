@@ -8,7 +8,7 @@ import java.util.Date;
  * @author sugar
  * @date 2022/3/9 18:28
  */
-public class stopThread {
+public class sleepThread {
     public static void main(String[] args) throws InterruptedException {
         Date start = new Date(System.currentTimeMillis());
         while(true) {
