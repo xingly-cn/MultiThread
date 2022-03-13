@@ -1,4 +1,4 @@
-package com.sugar.createThread;
+package com.sugar.status.createThread;
 
 /**
  * 继承 Thread 类, 重写 run 方法, start 启动

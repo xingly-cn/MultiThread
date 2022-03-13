@@ -1,4 +1,4 @@
-package com.sugar.createThread;
+package com.sugar.status.createThread;
 
 import org.apache.commons.io.FileUtils;
 

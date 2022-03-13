@@ -1,4 +1,4 @@
-package com.sugar.createThread;
+package com.sugar.status.createThread;
 
 /**
  * 多线程操作同一对象

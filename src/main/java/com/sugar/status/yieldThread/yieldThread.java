@@ -1,4 +1,4 @@
-package com.sugar.yieldThread;
+package com.sugar.status.yieldThread;
 
 /**
  * 线程礼让

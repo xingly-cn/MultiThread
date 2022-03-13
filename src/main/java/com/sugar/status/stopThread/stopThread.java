@@ -1,4 +1,4 @@
-package com.sugar.stopThread;
+package com.sugar.status.stopThread;
 
 /**
  * 线程停止
